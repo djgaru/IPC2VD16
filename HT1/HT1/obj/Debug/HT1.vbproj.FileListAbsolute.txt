@@ -1,0 +1,10 @@
+C:\Users\DjHernandez\Documents\GitHub\IPC2VD16\HT1\HT1\bin\Debug\HT1.exe.config
+C:\Users\DjHernandez\Documents\GitHub\IPC2VD16\HT1\HT1\bin\Debug\HT1.exe
+C:\Users\DjHernandez\Documents\GitHub\IPC2VD16\HT1\HT1\bin\Debug\HT1.pdb
+C:\Users\DjHernandez\Documents\GitHub\IPC2VD16\HT1\HT1\bin\Debug\HT1.xml
+C:\Users\DjHernandez\Documents\GitHub\IPC2VD16\HT1\HT1\obj\Debug\HT1.Form1.resources
+C:\Users\DjHernandez\Documents\GitHub\IPC2VD16\HT1\HT1\obj\Debug\HT1.Resources.resources
+C:\Users\DjHernandez\Documents\GitHub\IPC2VD16\HT1\HT1\obj\Debug\HT1.vbproj.GenerateResource.Cache
+C:\Users\DjHernandez\Documents\GitHub\IPC2VD16\HT1\HT1\obj\Debug\HT1.exe
+C:\Users\DjHernandez\Documents\GitHub\IPC2VD16\HT1\HT1\obj\Debug\HT1.xml
+C:\Users\DjHernandez\Documents\GitHub\IPC2VD16\HT1\HT1\obj\Debug\HT1.pdb
