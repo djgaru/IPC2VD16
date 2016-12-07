@@ -16,7 +16,8 @@
     End Sub
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
-        TextBox4.Text = (Val(TextBox1.Text) + Val(TextBox2.Text)) - Val(TextBox3.Text)
+        TextBox4.Text = (Val(TextBox1.Text) + Val(TextBox2.Text)) - Val(TextBox3.Text) & "_" & "201021195"
+
     End Sub
 
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
