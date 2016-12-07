@@ -36,6 +36,8 @@ Partial Class Form1
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Label7 = New System.Windows.Forms.Label()
         Me.Button3 = New System.Windows.Forms.Button()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.Button4 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'TextBox1
@@ -156,14 +158,34 @@ Partial Class Form1
         Me.Button3.Text = "Calcular 3"
         Me.Button3.UseVisualStyleBackColor = True
         '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.Location = New System.Drawing.Point(320, 139)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(53, 13)
+        Me.Label8.TabIndex = 2
+        Me.Label8.Text = "4. (X-Y)*Z"
+        '
+        'Button4
+        '
+        Me.Button4.Location = New System.Drawing.Point(379, 137)
+        Me.Button4.Name = "Button4"
+        Me.Button4.Size = New System.Drawing.Size(75, 23)
+        Me.Button4.TabIndex = 5
+        Me.Button4.Text = "Calcular 4"
+        Me.Button4.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(708, 397)
+        Me.ClientSize = New System.Drawing.Size(565, 321)
+        Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Label4)
+        Me.Controls.Add(Me.Label8)
         Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.Label5)
@@ -195,5 +217,7 @@ Partial Class Form1
     Friend WithEvents Button2 As System.Windows.Forms.Button
     Friend WithEvents Label7 As System.Windows.Forms.Label
     Friend WithEvents Button3 As System.Windows.Forms.Button
+    Friend WithEvents Label8 As System.Windows.Forms.Label
+    Friend WithEvents Button4 As System.Windows.Forms.Button
 
 End Class
