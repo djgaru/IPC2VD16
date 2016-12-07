@@ -1,0 +1,26 @@
+
+
+
+
+¿Qué entiende como "commit"?
+Una sentencia COMMIT en SQL finaliza una transacción de base de datos 
+dentro de un sistema gestor de base de datos relacional (RDBMS) y pone 
+visibles todos los cambios a otros usuarios. El formato general es emitir 
+una sentencia BEGIN WORK , una o más sentencias SQL, y entonces la sentencia COMMIT .
+
+
+
+¿Qué entiende como "merge"?
+Realiza inserción, actualización o supresión sobre una tabla de destino en base 
+a los resultados de una combinación con una tabla de origen. Por ejemplo, puede 
+sincronizar dos tablas mediante la inserción, actualización o eliminación de filas 
+en una tabla basada en las diferencias que se encuentran en la otra tabla.
+
+
+
+¿Cuál es la diferencia entre "Pull" y "Push"?
+git pull es una abreviación de git fetch seguido de git merge FETCH_HEAD
+Es decir, git fetch trae los cambios, pero los deja en otro branch, 
+hasta que se hace el git merge para traerlos al branch local.
+
+
